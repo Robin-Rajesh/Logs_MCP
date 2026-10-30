@@ -1,6 +1,6 @@
 # 🖥️ Logs MCP: Expense Tracker and System Health MCP Servers
 
-Two small [Model Context Protocol](https://modelcontextprotocol.io/) servers built with [FastMCP](https://github.com/jlowin/fastmcp). Connect them to an MCP client such as Claude Desktop, and an AI assistant can log your expenses or produce a system health report for you.
+Two small [Model Context Protocol](https://modelcontextprotocol.io/) servers built with [FastMCP](https://github.com/jlowin/fastmcp). Connect them to any MCP-compatible client, and an AI assistant can log your expenses or produce a system health report for you.
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-MCP_Server-6B4FBB)
